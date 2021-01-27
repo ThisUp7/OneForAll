@@ -1,8 +1,14 @@
-# Coucou on va s'amuser a leak le script de ONE FOR ALL
+Hey 👋 today i share OneForAll 😞
 
 
+1- install modules (npm i)
 
-❤️ Partagez ce lien et leak à fond ce script :)
+2- edit config.json [edit token /database] 
+
+3- start index.js [node index.js] (and good utilisation😀)
+Have good day 😀
+
+Bye OneForAll 😞
 
 
-⚠️ Oubier pas j'encule Kpri et l'autre roumain "baby" 
+⚠️ ATTENTION : N'OUBLIEZ PAS QUE ORUMAA & HICWWQ VOUS BAISERONT TOUJOURS 😀
