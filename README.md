@@ -1,14 +1,14 @@
-Hey 👋 today i share OneForAll 😞
+Coucou 👋 Petit leak 
 
 
 1- install modules (npm i)
 
 2- edit config.json [edit token /database] 
 
-3- start index.js [node index.js] (and good utilisation😀)
-Have good day 😀
-
-Bye OneForAll 😞
+3- start index.js [node index.js]
 
 
-⚠️ ATTENTION : N'OUBLIEZ PAS QUE ORUMAA & HICWWQ VOUS BAISERONT TOUJOURS 😀
+❤️ N'oubliez pas de partager ça à tout les utilisateurs de OneForAll :)
+
+
+⚠️ Fuck kpri et le roumain qui lui sert d'acolyte 
